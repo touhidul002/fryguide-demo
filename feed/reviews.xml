@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Reviews - Fry Guide</title><link>https://fryguide.example/kitchen/air-fryers/reviews/</link><description>Honest air fryer reviews</description><language>en</language><atom:link href="https://fryguide.example/feed/reviews.xml" rel="self" type="application/rss+xml"/>
+<item><title>Ninja AF101 Review</title><link>https://fryguide.example/ninja-af101-review/</link><guid isPermaLink="true">https://fryguide.example/ninja-af101-review/</guid><pubDate>Sat, 17 Oct 2026 09:23:17 GMT</pubDate><description>Our full review after 40 batches of fries.</description></item>
+</channel></rss>
